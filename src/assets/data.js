@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What is the capital of Canada?",
+        option1: "Toronto",
+        option2: "Vancouver",
+        option3: "Ottawa",
+        option4: "Montreal",
+        ans: 3,
+    },
+    {
+        question: "What is the chemical symbol for gold?",
+        option1: "Ag",
+        option2: "Au",
+        option3: "Pb",
+        option4: "Fe",
+        ans: 2,
+    },
+    {
+        question: "How many continents are there on Earth?",
+        option1: "5",
+        option2: "6",
+        option3: "7",
+        option4: "8",
+        ans: 3,
+    },
+    {
+        question: "Who wrote Romeo and Juliet?",
+        option1: "Charles Dickens",
+        option2: "William Shakespeare",
+        option3: "Mark Twain",
+        option4: "Jane Austen",
+        ans: 2,
+    },
+    {
+        question: "What is the square root of 144?",
+        option1: "10",
+        option2: "11",
+        option3: "12",
+        option4: "14",
+        ans: 3,
+    },
+];
